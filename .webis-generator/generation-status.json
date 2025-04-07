@@ -1,11 +1,60 @@
 {
-  "timestamp": "2025-04-07T20:23:34.899Z",
+  "timestamp": "2025-04-07T20:24:03.079Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 8,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "Website header with logo and navigation menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and call to action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the bookstore's background and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the bookstore's services"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Section displaying customer testimonials"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information section"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with links and copyright information"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button to scroll back to the top of the page"
+    }
+  ],
   "repoName": "webis-site-chnvt-sprym-byta-1744057391465"
 }
