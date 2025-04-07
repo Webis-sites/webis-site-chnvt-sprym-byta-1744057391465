@@ -19,6 +19,11 @@
   --testimonial-animation-speed: 0.5s;
   --testimonial-card-height: min-content;
   --font-family-hebrew: 'Heebo', 'Assistant', sans-serif;
+
+  --primary-light: #F2E2E2;
+  --primary-dark: #B68A8A;
+  --secondary-dark: #E05050;
+  --rtl-direction: rtl;
 }
 
 html {
