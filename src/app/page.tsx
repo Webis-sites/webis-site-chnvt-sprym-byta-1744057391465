@@ -8,6 +8,7 @@ import ServicesSection from '../components/ServicesSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import ContactSection from '../components/ContactSection';
 import Footer from '../components/Footer';
+import ScrollToTop from '../components/ScrollToTop';
 
 export default function HomePage() {
   return (
@@ -21,6 +22,7 @@ export default function HomePage() {
     <TestimonialsSection />
     <ContactSection />
     <Footer />
+    <ScrollToTop />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
