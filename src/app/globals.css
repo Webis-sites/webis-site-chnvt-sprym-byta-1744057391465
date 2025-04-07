@@ -24,6 +24,9 @@
   --primary-dark: #B68A8A;
   --secondary-dark: #E05050;
   --rtl-direction: rtl;
+
+  --scroll-transition: 0.3s ease-in-out;
+  --button-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 html {
