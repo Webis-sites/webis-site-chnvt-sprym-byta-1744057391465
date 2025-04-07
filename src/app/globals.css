@@ -15,6 +15,10 @@
   --font-family-heading: 'Frank Ruhl Libre', serif;
   --hero-transition: 0.3s ease-in-out;
   --hero-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+
+  --testimonial-animation-speed: 0.5s;
+  --testimonial-card-height: min-content;
+  --font-family-hebrew: 'Heebo', 'Assistant', sans-serif;
 }
 
 html {
